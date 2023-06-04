@@ -1,3 +1,13 @@
-.env
-
+# python
 __pycache__
+
+# poetry
+poetry.lock
+
+# vscode
+.vscode/
+.tours/
+
+# other
+assets/
+.env

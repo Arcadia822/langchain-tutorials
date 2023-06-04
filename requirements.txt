@@ -1,4 +1,0 @@
-jupyter
-langchain
-openai
-pydantic
